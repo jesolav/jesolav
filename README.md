@@ -22,6 +22,8 @@ Una analista de datos, con una gran pasión por el aprendizaje y los desafíos. 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jesolav&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesolav&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jesolav&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
